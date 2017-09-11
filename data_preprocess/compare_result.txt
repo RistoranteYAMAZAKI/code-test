@@ -1,0 +1,5 @@
+predict down correct	 predict percentage: 0.8	 real percentage: 0.5
+predict rise correct	 predict percentage: 1.17	 real percentage: 1.14
+predict down correct	 predict percentage: 0.67	 real percentage: 0.5
+Correct: 3 , Fail: 0 , Else condition: 2
+Correct percentage: 1.0
